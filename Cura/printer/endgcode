@@ -6,7 +6,7 @@ G91 ;Relative positioning
 G1 E-2 F2700 ;Retract a bit
 G1 E-2 Z0.2 F2400 ;Retract and raise Z
 G1 X5 Y5 F3000 ;Wipe out
-G1 Z10 ;Raise Z more
+G1 Z100 ;Raise Z more
 G90 ;Absolute positionning
 G0 X0 Y235 F5000 ; Move Heat Bed to the front for easy print removal
 M84 ; Disable stepper motors
