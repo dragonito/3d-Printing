@@ -129,8 +129,8 @@
       <setting key="print temperature">210.0</setting>
       <setting key="standby temperature">160.0</setting>
       <setting key="print cooling">100.0</setting>
-      <setting key="retraction speed">45.0</setting>
-      <setting key="retraction amount">6.0</setting>
+      <setting key="retraction speed">40.0</setting>
+      <setting key="retraction amount">5.0</setting>
     </machine>
     <machine>
       <machine_identifier manufacturer="Creality3D" product="creality_ender2" />
